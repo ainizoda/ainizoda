@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Abdulmajid
 
-## A Front-end developer
+## frontend(react) developer
 
 ![Muhammad's GitHub Stats](https://komarev.com/ghpvc/?username=ainizoda&label=Profile%20views&color=0e75b6&style=flat)  
 
