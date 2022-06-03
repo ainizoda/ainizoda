@@ -4,7 +4,7 @@
 
 ![Abdulmajid's GitHub Stats](https://komarev.com/ghpvc/?username=ainizoda&label=Profile%20views&color=0e75b6&style=flat)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainizoda&show_icons=true&locale=en&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainizoda&show_icons=true&locale=en&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ainizoda&show_icons=true&locale=en&theme=radical)
 
