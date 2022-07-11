@@ -1,8 +1,10 @@
 ```
-  let me = new Human('Abdulmajid')
+  const me = new Human('Abdulmajid')
   
   while (me.isAlive()) {
-    me.writeCode()
+    me.writeCode().then(() => {
+      me.sleep()
+    })
   }
 ```
 
