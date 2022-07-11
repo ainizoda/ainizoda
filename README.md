@@ -1,6 +1,14 @@
+```
+  let me = new Human('Abdulmajid')
+  
+  while (me.isAlive()) {
+    me.writeCode()
+  }
+```
+
 ### Hi there 👋. I'm Abdulmajid
 
-## frontend(react) developer
+## frontend developer
 
 <div style="width:100%;display:flex;justify-content: center">
 
