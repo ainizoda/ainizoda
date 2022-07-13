@@ -1,13 +1,3 @@
-```
-  const me = new Human('Abdulmajid')
-  
-  while (me.isAlive()) {
-    me.writeCode().then(() => {
-      me.sleep()
-    })
-  }
-```
-
 ### Hi there 👋. I'm Abdulmajid
 
 ## frontend developer
