@@ -4,7 +4,6 @@
 
 <div style="width:100%;display:flex;justify-content: center">
 
-  ![](https://komarev.com/ghpvc/?username=ainizoda)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainizoda&show_icons=true&locale=en&theme=radical)
 
