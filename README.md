@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ainizoda/ainizoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2 align="center">Welcome !</h2>
 
 ###
 
-<p align="center">Frontend Engineer, currently working at alif bank<br><br><br>Technical skills:</p>
+<p align="center">Frontend Engineer, currently working at <b>alif bank</b><br><br><br>Technical skills:</p>
 
 ###
 
